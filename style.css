@@ -1,0 +1,43 @@
+body {
+    background: #050505;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .my-path {
+    fill:none;
+    stroke:#cfc33a;
+    stroke-width:3;
+  }
+
+  .img-box{
+      margin-bottom: 100px;
+  }
+
+  .myImg{
+    margin: 0 auto;
+    height: 10px;
+    display: flex; 
+}
+
+h3{
+    color: red; 
+    text-align: center;
+    margin-top: 300px;
+    margin-bottom: 100px;
+}
+
+.myText{
+  font-size: 1.9em;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  font-weight: 600;
+}
+
+.myText .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
